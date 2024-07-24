@@ -1,4 +1,4 @@
-#Reacto Pizza Menu feito com react
+#Menu de Pizzaria feito com React
 
 ![Reactop1](https://github.com/user-attachments/assets/e9fb38b8-41b3-46f9-b96f-b06cc4c2d052)
 
